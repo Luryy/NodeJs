@@ -1,0 +1,14 @@
+{
+  "name": "03-arguments-from-cmd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "list-all-args": "node list-all-args",
+    "list-only-args": "node list-only-args",
+    "list-obj-args": "node list-obj-args"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
