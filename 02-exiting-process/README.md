@@ -8,6 +8,18 @@ _This project have a implementation of exiting a Node.JS application_
 ## Aplication
 Create a simple exit application
 
+## Getting Started
+
+To kill the aplication gracefully
+```
+curl -i localhost:3000/kill-gracefully
+```
+
+To kill the aplication ungracefully
+```
+curl -i localhost:3000/kill-ungracefully
+```
+
 ## Reference
 - [https://nodejs.dev/learn/how-to-exit-from-a-nodejs-program](https://nodejs.dev/learn/how-to-exit-from-a-nodejs-program)
 
