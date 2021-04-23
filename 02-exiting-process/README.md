@@ -1,4 +1,4 @@
-<h1 align="center">Node.JS Docker :outbox_tray: </h1>
+<h1 align="center">Node.JS Exiting Process :outbox_tray: </h1>
 
 _This project have a implementation of exiting a Node.JS application_
 
