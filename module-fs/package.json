@@ -8,6 +8,10 @@
     "getting-started": "node get-started",
     "file-stat": "node file-stat",
     "writting-file": "node writting-file",
-    "reading-file": "node reading-file"
+    "reading-file": "node reading-file",
+    "folders": "node folders"
+  },
+  "engines": {
+    "node": ">= 16.0.0"
   }
 }

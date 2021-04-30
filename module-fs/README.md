@@ -31,6 +31,11 @@ To read content of a file: (you should run the previus command first)
 npm run reading-file
 ```
 
+To work with folders:
+```
+npm run folders
+```
+
 ## Autor
 
 👤 **Lucas Yuri**
