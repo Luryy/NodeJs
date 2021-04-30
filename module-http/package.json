@@ -1,0 +1,13 @@
+{
+  "name": "module-events",
+  "version": "1.0.0",
+  "main": "get-started.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "getting-started": "node get-started",
+    "making-requests": "node making-requests",
+    "parsing-request": "node parsing-request"
+  }
+}
+
