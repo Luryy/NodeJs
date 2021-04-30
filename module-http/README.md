@@ -13,7 +13,7 @@ You can check my studies of Events Module of NodeJS, you could check the full do
 
 First to see the basic of this module creating a server:
 ```
-npm rum getting-started
+npm run getting-started
 curl -i localhost:3000
 ```
 
@@ -21,14 +21,14 @@ curl -i localhost:3000
 
 Making requests using nodejs https library
 ```
-npm rum making-requests
+npm run making-requests
 ```
 
 ### Parsing requests
 
 Parsing requests data using nodejs http library
 ```
-npm rum parsing-request
+npm run parsing-request
 curl -X POST http://localhost:3000 -d '{"test": "any_data"}'
 ```
 

@@ -13,7 +13,7 @@ You can check my studies of Events Module of NodeJS, you could check the full do
 
 First to see the basic of this module:
 ```
-npm rum getting-started
+npm run getting-started
 ```
 
 ## Autor
