@@ -5,6 +5,10 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "getting-started": "node get-started"
+    "getting-started": "node get-started",
+    "manage-listeners": "node manage-listeners"
+  },
+  "engines": {
+    "node": ">= 16.0.0"
   }
 }
