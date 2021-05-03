@@ -7,16 +7,18 @@ _This is my NodeJs study repository - containing docs implementation and tests_
 ----
 <br/>
 
->This repository contains my studies about NodeJs, I hope to help your studies with those concepts
+>This repository contains my studies about NodeJs, I hope to help your studies with those concepts.
 >Check the instructions below to a better use and optimization of your learning 
 
 
 ## How to check this Repository
 
-##### Checking folders
-Each folder has a concept implementation. Everyone has it's own _README_ containing: </br> **Get Starting** - where you could see how to start and see the implementation works </br> **Reference** - Links that I used to learn the implementation and will be useful for you understanding. _I recommend to aways check a folder with the reference links opened in another tab._
-</br>
-##### Folders type
+#### Checking folders
+Each folder has a concept implementation. Everyone has it's own _README_ containing: 
+* **Get Starting** - where you could see how to start and see the implementation works 
+* **Reference** - Links that I used to learn the implementation and will be useful for you understanding. _I recommend to aways check a folder with the reference links opened in another tab._
+
+#### Folders type
 
 As you can see, this repository has 3 folders types:
 * **00-name** - this type of folder has a NodeJs concept implementation - you could filter a concept that you are interested and check it.
@@ -25,13 +27,13 @@ As you can see, this repository has 3 folders types:
 
 ## Getting Started
 
-##### Clone
+#### Clone
 First clone this repository
 ```
 git clone https://github.com/Luryy/NodeJs.git
 ```
 
-##### Using
+#### Using
 Pick a folder that you ara interested
 ```
 cd folder xxxx
