@@ -46,11 +46,11 @@ Suggestion: _After see the concept working, try to change the code to have a bet
 :warning: If your folder has a "_.tool-versions_" file, it's a [asdf](https://asdf-vm.com/#/core-manage-asdf) node version configuration and contains the required version of node to the respective folder
 
 ## Reference
-[https://nodejs.org/en/](https://nodejs.org/en/)
-[https://nodejs.dev/](https://nodejs.dev/)
-[https://nodejs.org/api/](https://nodejs.org/api/)
-[https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-[https://nodejs.dev/learn](https://nodejs.dev/learn)
+* [https://nodejs.org/en/](https://nodejs.org/en/)
+* [https://nodejs.dev/](https://nodejs.dev/)
+* [https://nodejs.org/api/](https://nodejs.org/api/)
+* [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
+* [https://nodejs.dev/learn](https://nodejs.dev/learn)
 
 
 </br>
